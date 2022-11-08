@@ -39,7 +39,7 @@ mvn spring-boot:run
 ```
 - drive
 ```
- http :8088/files id="id" Name="Name" Type="Type" 
+ http :8088/files id="id" Name="Name" Type="Type" Size="Size" 
 ```
 - indexer
 ```
